@@ -1,3 +1,3 @@
 #Topics
 
-Pasar las cosas desde para tenerlo presente.
+Pasar las cosas desde el archivo para tenerlo presente.
